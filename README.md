@@ -58,6 +58,12 @@ The Power BI dashboard provides several key metrics:
 - Provider analysis showing which news sources contribute most across categories
 - Timeline views of sentiment changes
 
+![Dashboard](PBI_Dashboard_Screenshots/1.png)
+
+![Dashboard](PBI_Dashboard_Screenshots/2.png)
+
+![Dashboard](PBI_Dashboard_Screenshots/3.png)
+
 ## Conclusion
 
 This project demonstrates the power of Microsoft Fabric's integrated analytics platform for building end-to-end data solutions. By leveraging the full suite of Fabric services, I've created a comprehensive news sentiment analysis pipeline that processes data from ingestion to visualization with minimal friction between components.
